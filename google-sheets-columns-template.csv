@@ -1,0 +1,9 @@
+Category	Model/Component	Description	Examples
+Service Model	Infrastructure as a Service (IaaS)	Provides fundamental computing resources like VMs, storage, and networking.	Amazon EC2, Azure Virtual Machines (VMs)
+Service Model	Platform as a Service (PaaS)	Offers a managed environment for developing, testing, and deploying applications.	Google App Engine, Heroku
+Service Model	Software as a Service (SaaS)	Delivers fully functional software applications over the internet.	Salesforce, Slack, Dropbox
+Architectural Component	Front-End Platform	Client-facing side consisting of UIs and devices.	Chrome, Edge, mobile applications, PCs, tablets
+Architectural Component	Back-End Platform	Provider-managed infrastructure including hardware, virtualization, middleware, and storage.	Servers, storage arrays, routers, virtual machines, containers
+Deployment Model	Public Cloud	Cloud services offered over the public internet.	N/A
+Deployment Model	Private Cloud	Dedicated infrastructure for exclusive use by a single organization.	N/A
+Deployment Model	Hybrid Cloud	Combines private and public clouds to enable cloud bursting.	N/A
